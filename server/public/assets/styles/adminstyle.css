@@ -1,0 +1,8 @@
+body {
+    background-color: #1b6d85;
+}
+
+#messageBoard {
+    height: 450px;
+    overflow: auto;
+}
